@@ -1,5 +1,4 @@
 import { auth } from "@clerk/nextjs/server";
-import LoginPage from "./login/page";
 import { redirect } from "next/navigation";
 import { UserButton } from "@clerk/nextjs";
 
